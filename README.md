@@ -2,7 +2,6 @@
 
 "Your go-to chat app for daily use: Send messages and share images effortlessly, keeping you connected with ease!"
 
-![swiping code](https://media.giphy.com/media/Vhw2lTXYI6FhGrbE2G/giphy.gif)
 
 ## How to run locally
 
