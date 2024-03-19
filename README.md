@@ -7,7 +7,6 @@
 
 ### Backend
 
-
 1. Create a MongoDB cluster at MongoDb Atlas
 2. Add MongoDB URI and JWT token in the .env file present in the backend directory
 3. Run `npm i` to install dependencies
@@ -15,6 +14,7 @@
 
 ### Frontend
 
-1. Run `npm i` to install dependency
+1. Run `npm i` to install dependencies
+2. Run `npm run start` to initiate Expo development server
 
 
